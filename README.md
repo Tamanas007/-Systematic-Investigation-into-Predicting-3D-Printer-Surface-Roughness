@@ -103,6 +103,6 @@ The final, successful script is colab_hybrid_deterministic_regressor.py. To run 
 
 Open the script in a Google Colab notebook.
 
-Ensure your dataset_roughness.csv and roughness images.zip files are in your Google Drive's root directory.
+Ensure your dataset_roughness.csv and roughness images.zip files(https://colab.research.google.com/drive/14yWIs3_d9xxjeiBke7X8TxC9_Viv7PkZ?usp=sharing) are in your Google Drive's root directory.
 
 Run all the cells
