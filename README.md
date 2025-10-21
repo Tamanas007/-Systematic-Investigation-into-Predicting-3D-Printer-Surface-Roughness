@@ -37,7 +37,7 @@ Phase 2: Visual Similarity Learning (Siamese Network) -> Partial Success & Key I
 Hypothesis: If we can't find a clean boundary between the classes, we can train a model to learn a metric of similarity.
 
 Result: Partial Success. This was the first breakthrough. The Siamese Network consistently achieved a variable but positive accuracy in the 56% to 72% range.
-![Best Case Confusion Matrix](WhatsApp Image 2025-10-16 at 18.49.25_7431c67f.jpg)
+
 
 Insight Gained: This scientifically proved that a weak but real predictive signal exists in the visual data. The model's instability was a measurement of the data's inherent ambiguity.
 
